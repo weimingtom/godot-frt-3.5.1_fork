@@ -15,6 +15,7 @@ Try to cross compile Godot 3.5.1 FRT 2.1.0 GLES no X11 version
 ## Bugs  
 * Pong is not full screen  
 * Pong no two players' control   
+* Launch from Apps folder    
 
 ## TODO  
 * Port pong from SFML

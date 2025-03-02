@@ -22,3 +22,5 @@ Try to cross compile Godot 3.5.1 FRT 2.1.0 GLES no X11 version
 * Build with Makefile
 * Port visual novel games
 * Make output binary elf smaller  
+* Port to other game handhelds  
+ 
